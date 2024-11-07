@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-taa=*736nbhp&vti$6z1z5=vo&)34+jhhvi&!^g!vtb!zjc^#q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =  [ 'backend_api_python.onrender.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS =  [ 'backend-api-python-1af8.onrender.com', '127.0.0.1', 'localhost']
 #['rest-auth.onrender.com']
 
 
